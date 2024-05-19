@@ -564,7 +564,7 @@ a:hover {
      justify-content: space-around;
      align-items: center;
      flex-wrap: wrap;
-     gap: 15px;
+     gap: 30px;
      justify-content: center;
      /* width: 50%; */
  }
@@ -580,9 +580,9 @@ a:hover {
  .button1 {
      display: flex;
      align-items: center;
-     padding: 15px 30px; /* Adjust padding as needed */
-     min-width: 300px; /* Set minimum width for the buttons */
-     max-width: 200px; /* Set maximum width for the buttons */
+     padding: 30px 45px; /* Adjust padding as needed */
+     min-width: 600px; /* Set minimum width for the buttons */
+     max-width: 300px; /* Set maximum width for the buttons */
      background: linear-gradient(45deg, #ff6b6b, #f06595, #6b6bff, #6bc1ff); /* Gradient background */
      background-size: 400% 400%; /* Make gradient animate smoothly */
      border: none;
